@@ -6,7 +6,7 @@
 
 ## What is GitHub?
 - [Video Intro to GitHub](https://www.youtube.com/watch?v=pBy1zgt0XPc)
--[W3 Explanation of GitHub](https://www.w3schools.com/whatis/whatis_github.asp)
+- [W3 Explanation of GitHub](https://www.w3schools.com/whatis/whatis_github.asp)
 - [GitHub About Page](https://github.com/about)
 
 
