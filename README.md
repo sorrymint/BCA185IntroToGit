@@ -32,4 +32,4 @@
     - then look in file manager for files. 
 
 ## What we will use later
-[https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages](GitHub Pages) 
+[GitHub Pages](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages)
